@@ -1,0 +1,1 @@
+Estou configurando o linux
